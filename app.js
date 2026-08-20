@@ -142,17 +142,17 @@ const cakeCatalogData = {
     'butterscotch cake': { price: '₹500 / 1kg', priceNum: 500, img: '10.jpg', label: 'Butterscotch Praline Cake' },
     'black forest cake': { price: '₹550 / 1kg', priceNum: 550, img: 'black-forest-cake.jpg', label: 'Black Forest Cake' },
     'red velvet cake': { price: '₹600 / 1kg', priceNum: 600, img: 'red-velvet-cake.jpg', label: 'Red Velvet Cake' },
-    'custom theme cake': { price: '₹750 / 1kg', priceNum: 750, img: 'designer-cake.jpg', label: 'Custom Theme Cake' },
+    'custom theme cake': { price: '₹750 / 1kg', priceNum: 750, img: 'custom-theme-cake.jpg', label: 'Custom Theme Cake' },
     'photo cake': { price: '₹700 / 1kg', priceNum: 700, img: 'photo-cake.jpg', label: 'Edible Photo Cake' },
     'designer cake': { price: '₹850 / 1kg', priceNum: 850, img: 'designer-cake.jpg', label: 'Luxury Designer Cake' },
     'brownie tub': { price: '₹350 / tub', priceNum: 350, img: '8.jpg', label: 'Fudgy Brownie Tub' },
     'chocolate brownie': { price: '₹300 / pack', priceNum: 300, img: '7.jpg', label: 'Chocolate Brownie Pack' },
     'chocolate sauce brownie': { price: '₹380 / tub', priceNum: 380, img: '5.jpg', label: 'Hot Chocolate Sauce Brownie' },
-    'birthday custom cake': { price: '₹800 / 1kg', priceNum: 800, img: 'hero-cake.jpg', label: 'Custom Birthday Cake' },
-    'anniversary cake': { price: '₹850 / 1kg', priceNum: 850, img: 'red-velvet-cake.jpg', label: 'Anniversary Special Cake' },
+    'birthday custom cake': { price: '₹800 / 1kg', priceNum: 800, img: 'birthday-custom-cake.jpg', label: 'Custom Birthday Cake' },
+    'anniversary cake': { price: '₹850 / 1kg', priceNum: 850, img: 'anniversary-cake.jpg', label: 'Anniversary Special Cake' },
     'baby shower cake': { price: '₹850 / 1kg', priceNum: 850, img: '2.jpg', label: 'Baby Shower Custom Cake' },
     'wedding tier cake': { price: '₹1,200 / 1kg', priceNum: 1200, img: '6.jpg', label: 'Grand Wedding Tier Cake' },
-    'corporate event cake': { price: '₹950 / 1kg', priceNum: 950, img: 'black-forest-cake.jpg', label: 'Corporate Event Cake' }
+    'corporate event cake': { price: '₹950 / 1kg', priceNum: 950, img: 'corporate-event-cake.jpg', label: 'Corporate Event Cake' }
 };
 
 // Delivery Option Toggle Handler for Order Modal
